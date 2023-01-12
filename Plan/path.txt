@@ -1,0 +1,10 @@
+> Data structures and complexity
+> 5 code test per week
+> Design consideration and patterns
+> Java new features and practice
+> AWS cloud learn while work a new service per day
+> improve clean code
+
+https://www.educative.io/blog/cracking-top-facebook-coding-interview-questions
+https://www.codinginterview.com/facebook-interview-questions
+https://www.educative.io/m/move-zeros-left
